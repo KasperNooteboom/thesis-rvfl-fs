@@ -1,0 +1,6 @@
+The test set for the Poker dataset is too large to fit on GitHub.
+To get it to work, download the CSV file from the link below and
+place it in the same folder you found this file in. Leave the
+name as 'poker_fix_test.csv'.
+
+https://drive.google.com/file/d/11raXBlJclbOCkC0nrA_PXES7Npdqt7J_/view?usp=sharing

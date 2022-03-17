@@ -1,0 +1,10 @@
+,f1,time
+cancer,"Uniform, False","Uniform, False"
+card,"Uniform, False","Two-point, True"
+gene,"Two-point, False","Two-point, True"
+glass,"Uniform, False","Uniform, True"
+heart,"Two-point, False","Two-point, True"
+horse,"Uniform, False","Two-point, True"
+mushroom,equal,"Uniform, False"
+soybean,"Two-point, True","Uniform, True"
+thyroid,equal,"Two-point, False"

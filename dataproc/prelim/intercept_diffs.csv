@@ -1,0 +1,8 @@
+,cancer,card,gene,glass,heart,horse,mushroom,soybean,thyroid
+importance,"without, False","without, True","with, True","without, False","without, False","without, True","without, False","without, True","without, True"
+importance_corfilter,"without, True","without, True","with, True","without, False","without, True","without, True","without, False","without, True","without, True"
+inipg,"without, False","without, False","with, True","with, True","without, False","without, False",equal,"without, False","without, True"
+l1l2,"without, False","without, False","with, True",equal,"with, False","with, False","without, True","with, False","without, True"
+lasso,"with, False","without, False","with, True","with, True","without, True","without, True",equal,"with, True","with, False"
+sparse_encoded_lasso,"with, False","without, False","with, True","with, True","with, True","without, True",equal,"with, False",equal
+stepwise,"with, False","without, True","with, True","without, False","without, False","with, True",equal,"with, True","without, False"
